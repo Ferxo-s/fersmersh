@@ -19,6 +19,7 @@ void main() {
     else {
         System.out.println("No tienes ningun popocho ADOPTA UNO");
     }
+    System.out.printf("LA vida es bella pero mas bella es mi doncella");
     for (int i =1;i<=popochos;i++){
         System.out.println("El popocho "+i+" esta dormido :"+ZZ);
         ZZ+="Zzz";
